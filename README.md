@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-25-26
 
-<h3>ENTER YOUR NAME  : Sadhana Shree B</h3>
-<h3>ENTER YOUR REGISTER NO : 212223230177</h3>
+<h3>ENTER YOUR NAME  : Jwalamukhi S</h3>
+<h3>ENTER YOUR REGISTER NO : 212223040079</h3>
 <h3>EX. NO : 02</h3>
 <h3>DATE : </h3>
 <h2> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h2>
@@ -37,8 +37,8 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 ```
-Developed By : Sadhana Shree B
-Register No. : 212223230177
+Developed By : Jwalamukhi S
+Register No. : 212223040079
 ```
 
 ```
